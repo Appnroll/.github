@@ -1,0 +1,10 @@
+{
+    "name": "Automatic Quality Checks",
+    "description": "Front-end apps validation tests.",
+    "iconName": "appnroll",
+    "categories": [
+        "JavaScript",
+        "TypeScript",
+        "React"
+    ]
+}
