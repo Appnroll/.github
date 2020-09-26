@@ -1,4 +1,4 @@
-name: Automatic Quality Checks II
+name: Automatic Quality Checks
 
 on: [push]
 
